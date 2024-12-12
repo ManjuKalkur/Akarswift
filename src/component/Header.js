@@ -42,9 +42,9 @@ const Header = () => {
                 style={({ isActive }) => ({
                   fontWeight: isActive ? "bold" : "normal",
                   color: isActive ? "#D48A00" : "white",
-                  fontFamily: 'Arial, sans-serif', // Add font family here
+                  fontFamily: 'Arial, sans-serif;', // Add font family here
                   fontSize: '16px',
-                  letterSpacing: '1px',
+                  letterSpacing: '0px',
                 })}
                 onClick={handleLinkClick}
               >
@@ -61,7 +61,7 @@ const Header = () => {
                   color: isActive ? "#D48A00" : "white",
                   fontFamily: 'Arial, sans-serif', // Add font family here
                   fontSize: '16px',
-                  letterSpacing: '1px',
+                  letterSpacing: '0px',
                 })}
                 onClick={handleLinkClick}
               >
@@ -78,7 +78,7 @@ const Header = () => {
                   color: isActive ? "#D48A00" : "white",
                   fontFamily: 'Arial, sans-serif', 
                   fontSize: '16px',
-                  letterSpacing: '1px',
+                  letterSpacing: '0px',
                 })}
                 onClick={handleLinkClick}
               >
@@ -95,7 +95,7 @@ const Header = () => {
                   color: isActive ? "#D48A00" : "white",
                   fontFamily: 'Arial, sans-serif', // Add font family here
                   fontSize: '16px',
-                  letterSpacing: '1px',
+                  letterSpacing: '0px',
                 })}
                 onClick={handleLinkClick}
               >
@@ -112,7 +112,7 @@ const Header = () => {
                   color: isActive ? "#D48A00" : "white",
                   fontFamily: 'Arial, sans-serif', // Add font family here
                   fontSize: '16px',
-                  letterSpacing: '1px',
+                  letterSpacing: '0px',
                 })}
                 onClick={handleLinkClick}
               >
@@ -129,7 +129,7 @@ const Header = () => {
                   color: isActive ? "#D48A00" : "white",
                   fontFamily: 'Arial, sans-serif', // Add font family here
                   fontSize: '16px',
-                  letterSpacing: '1px',
+                  letterSpacing: '0px',
                 })}
                 onClick={handleLinkClick}
               >
@@ -146,7 +146,7 @@ const Header = () => {
                   color: isActive ? "#D48A00" : "white",
                   fontFamily: 'Arial, sans-serif', // Add font family here
                   fontSize: '16px',
-                  letterSpacing: '1px',
+                  letterSpacing: '0px',
                 })}
                 onClick={handleLinkClick}
               >
@@ -163,7 +163,7 @@ const Header = () => {
                   color: isActive ? "#D48A00" : "white",
                   fontFamily: 'Arial, sans-serif', // Add font family here
                   fontSize: '16px',
-                  letterSpacing: '1px',
+                  letterSpacing: '0px',
                 })}
                 onClick={handleLinkClick}
               >
