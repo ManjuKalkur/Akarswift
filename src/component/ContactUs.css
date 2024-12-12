@@ -1,8 +1,6 @@
 .container {
   /* background: linear-gradient(135deg, #f0f0f0 0%, #d1e8e4 100%); */
   background: black;
-  /* border-radius: 1px;
-  border: 0.1px solid white;  */
   padding: 2rem;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
